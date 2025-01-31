@@ -1,0 +1,3 @@
+Java was made in 1991 and maked by James Gosling
+first version 1996
+Twitter is maded from Java

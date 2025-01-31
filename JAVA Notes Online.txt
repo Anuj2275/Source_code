@@ -1,0 +1,7 @@
+- Shradha Khapra
+- Date 28/11/202
+JAVA- 
+- protable language
+JRE Java Runtimme environment
+JDK Java development kit
+JVM Java virtual machine

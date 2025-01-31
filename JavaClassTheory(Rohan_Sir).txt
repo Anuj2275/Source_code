@@ -1,0 +1,11 @@
+Date 5-dec 24
+-java is compiled or interpreter language
+PSVM
+- public static void main(String args[])
+public - 
+void - returns nothing
+String - 
+
+Assigning a value of one type to a var of another type is called typecasting.
+small to big data type changing- Widening 
+big to small data type changing- narrowing

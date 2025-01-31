@@ -1,0 +1,5 @@
+                                                IMPORTANT JAVA POINTS
+
+Keywords: Keywords are the words which have a predefined meaning in a language. There are __49__ reserved keywords currently defined in the Java language. 
+
+LEARN THE TAB \T CONCEPT AGAIN ITS IMPORTANT
